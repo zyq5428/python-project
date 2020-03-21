@@ -1,0 +1,1 @@
+pyautogui.screenshot()在linux下可能会出现截屏全黑的情况，所有建议在widows下测试本章节内容。
